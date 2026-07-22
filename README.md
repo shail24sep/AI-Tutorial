@@ -1,3 +1,2 @@
 # AI-Tutorial
-AI Engineering
-Author - Shailesh Vishwakarma 
+AI Engineering (Technical Head)
